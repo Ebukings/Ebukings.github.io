@@ -1,0 +1,24 @@
+body {
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBayqNTqxtIJf_3etKZAUXiQrBkntr0C-CRlh6Q69n4DRdRvSE);
+	background-size: cover;
+}
+
+div {
+	text-align: center;
+	font-size: 20px;
+	color: white;
+}
+
+a {
+	color: blue;
+	line-height: 30px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 100%;
+	font-family:"Time New Roman", Georgia;
+}
+
+h1 {
+	margin-top: 200px;
+}
+
